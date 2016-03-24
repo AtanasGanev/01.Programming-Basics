@@ -1,6 +1,6 @@
 Most popular programming languages: 
 
-1. Java
+1. Java   
 Java uses a compiler, and is an object-oriented language released in 1995 by Sun Microsystems. Java is the number one programming language today for many reasons. First, it is a well-organized language with a strong library of reusable software components. Second, programs written in Java can run on many different computer architectures and operating systems because of the use of the JVM ( Java virtual machine ). Sometimes this is referred to as code portability or even WORA ( write once, run anywhere ). Third, Java is the language most likely to be taught in university computer science classes. A lot of computer science theory books written in the past decade use Java in the code examples. So learning Java syntax is a good idea even if you never actually code in it.
 
 2. C
